@@ -122,7 +122,7 @@ body{
 .h{
     font-size: 17px;
     color: whitesmoke;
-    font-family: 'Kavoon', cursive;
+    font-family: 'Roboto Slab', serif;
 }
 .h1{
     color: whitesmoke;  
@@ -131,44 +131,44 @@ body{
 .h2{
     color: whitesmoke;
     padding-top: 20px;
-    padding-left: 10px;
+    
 }
 .h3{
     color: whitesmoke;
-    padding-left: 10px;
+    
 }
 .h4{
     color: whitesmoke; 
     padding-top: 20px;
-    padding-left: 10px;
+    
 }
 
 .h6{
     color: whitesmoke; 
-    padding-left: 10px;
+    
 }
 .h7{
     color: whitesmoke; 
     padding-top: 20px;
-    padding-left: 10px;
+    
 }
 .h8{
     color: whitesmoke;
-    padding-left: 10px;
+   
 }
 .h9{
     color: whitesmoke; 
     padding-top: 20px;
-    padding-left: 10px;
+   
 }
 .h11{
     color: whitesmoke;
-    padding-left: 10px;
+    
 }
 .h12{
     color: whitesmoke; 
     padding-top: 20px;
-    padding-left: 10px;
+    
 }
 
 
